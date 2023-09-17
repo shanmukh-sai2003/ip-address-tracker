@@ -12,7 +12,7 @@
 ## Links
 
 - Solution URL: [code base](https://github.com/shanmukh-sai2003/ip-address-tracker)
-- Live Site URL: [ip-address-tracker](https://your-live-site-url.com)
+- Live Site URL: [ip-address-tracker](https://shanmukh-sai2003.github.io/ip-address-tracker)
 
 ## Built with
 

@@ -5,8 +5,8 @@
   "description": "this web application tracker location using ip address or domain name",
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build index.html",
-    "predeploy": "npm run build",
+    "build": "parcel build index.html --public-url .",
+    "predeploy": "rm -rf dist && npm run build",
     "deploy": "gh-pages -d dist", 
     "test": "echo \"Error: no test specified\" && exit 1"
   },
