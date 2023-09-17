@@ -1,0 +1,36 @@
+{
+  "name": "ip-address-tracker",
+  "version": "1.0.0",
+  "description": "this web application tracker location using ip address or domain name",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shanmukh-sai2003/ip-address-tracker.git"
+  },
+  "keywords": [
+    "ipAddress",
+    "react",
+    "api",
+    "maps"
+  ],
+  "author": "korada shanmukh sai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shanmukh-sai2003/ip-address-tracker/issues"
+  },
+  "homepage": "https://github.com/shanmukh-sai2003/ip-address-tracker#readme",
+  "dependencies": {
+    "leaflet": "^1.9.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-leaflet": "^4.2.1"
+  },
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  }
+}
