@@ -6,7 +6,7 @@
 
 ## Screenshot
 
-![](./images/solution-ip-address-tracer.png)
+![](./images/solution-ip-address-tracker.png)
 
  
 ## Links
